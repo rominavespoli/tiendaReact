@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Alien",
+    "price": 2000,
+    "category": "juegos de ingenio",
+    "description": 20,
+    "image": "../../img/azul-master-chocolatier.jpg",
+    "id": 1,
+    "stock": 10
+  },
+  {
+    "name": "Azul",
+    "price": 3500,
+    "category": "juegos de ingenio",
+    "description": 20,
+    "image": "../src/img/azul-master-chocolatier.jpg",
+    "id": 2,
+    "stock": 10
+  },
+  {
+    "name": "Bloodhorne ",
+    "price": 4900,
+    "category": "juegos didácticos",
+    "description": 10,
+    "image": "./images/bloodborne-la-mazmorra-del-caliz.jpg",
+    "id": 3,
+    "stock": 10
+  },
+  {
+    "name": "Challengers",
+    "price": 2650,
+    "category": "juegos cooperativos",
+    "description": 20,
+    "image": "./images/challengers.jpg",
+    "id": 4,
+    "stock": 10
+  },
+  {
+    "name": "Flamecraft",
+    "price": 7800,
+    "category": "juegos de ingenio",
+    "description": 20,
+    "image": "./images/flamecraft.jpg",
+    "id": 5,
+    "stock": 10
+  },
+  {
+    "name": "Hostage",
+    "price": 7800,
+    "category": "juegos cooperativos",
+    "description": 20,
+    "image": "./images/hostage-negotiator-oleada-de-crimenes.jpg",
+    "id": 6,
+    "stock": 10
+  },
+  {
+    "name": "Imperium",
+    "price": 7800,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/imperium-legendarios.jpg",
+    "id": 7,
+    "stock": 10
+  },
+  {
+    "name": "La era olvidada",
+    "price": 7800,
+    "category": "juegos de rol",
+    "description": 20,
+    "image": "./images/la-era-olvidada-expansion-de-campana-arkham-horror.jpg",
+    "id": 8,
+    "stock": 10
+  },
+  {
+    "name": "Marvel",
+    "price": 7800,
+    "category": "juegos de rol",
+    "description": 20,
+    "image": "./images/marvel-united-x-men.jpg",
+    "id": 9,
+    "stock": 10
+  },
+  {
+    "name": "Mindbug",
+    "price": 7800,
+    "category": "juegos didácticos",
+    "description": 20,
+    "image": "./images/mindbug.jpg",
+    "id": 10,
+    "stock": 10
+  },
+  {
+    "name": "Rome and roll",
+    "price": 7800,
+    "category": "juegos de ingenio",
+    "description": 20,
+    "image": "./images/rome-roll-personajes-2-expansion.jpg",
+    "id":  11,
+    "stock": 10
+  },
+  {
+    "name": "Shards of infinity",
+    "price": 7800,
+    "category": "juegos cooperativos",
+    "description": 20,
+    "image": "./images/shards-of-infinity-expansion-relics-of-the-future.jpg",
+    "id":  12,
+    "stock": 10
+  },
+  {
+    "name": "Skyhawk",
+    "price": 7800,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/skyhawk-rolling-thunder-1966.jpg",
+    "id":  13,
+    "stock": 10
+  },
+  {
+    "name": "Sleeping gods",
+    "price": 7800,
+    "category": "juegos didácticos",
+    "description": 20,
+    "image": "./images/sleeping-gods-mazmorras.jpg",
+    "id":  14,
+    "stock": 10
+  },
+  {
+    "name": "Swords",
+    "price": 7800,
+    "category": "juegos de ingenio",
+    "description": 20,
+    "image": "./images/sword-and-sorcery-cronicas-antiguas.jpg",
+    "id":  15,
+    "stock": 10
+  },
+  {
+    "name": "Terraforming",
+    "price": 7800,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/terraforming-mars.jpeg",
+    "id":  16,
+    "stock": 10
+  },
+  {
+    "name": "Tiletum",
+    "price": 6500,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/tiletum.jpg",
+    "id":  17,
+    "stock": 10
+  },
+  {
+    "name": "Boogeyman",
+    "price": 7400,
+    "category": "juegos de rol",
+    "description": 20,
+    "image": "./images/boogeyman.jpg",
+    "id":  18,
+    "stock": 10
+  },
+  {
+    "name": "Dreamquest",
+    "price": 7800,
+    "category": "juegos cooperativos",
+    "description": 20,
+    "image": "./images/dreamquest.jpg",
+    "id":  19,
+    "stock": 10
+  },
+  {
+    "name": "Cloudage",
+    "price": 3400,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/cloudage.jpg",
+    "id":  20,
+    "stock": 10
+  },
+  {
+    "name": "La era olvidada 2",
+    "price": 9800,
+    "category": "juegos didácticos",
+    "description": 20,
+    "image": "./images/la-era-olvidada-expansion-investigadores-arkham-horror.jpg",
+    "id":  21,
+    "stock": 10
+  },
+  {
+    "name": "Origins expansion",
+    "price": 7800,
+    "category": "juegos de estrategia",
+    "description": 20,
+    "image": "./images/origins-expansion-maravillas-antiguas.jpg",
+    "id":  22,
+    "stock": 10
+  }
+]
