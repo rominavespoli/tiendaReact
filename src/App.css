@@ -40,61 +40,27 @@
     transform: rotate(360deg);
   }
 }
-/*
-.container{
-  color: black;
-   background-image: url(../src/img/juegosdemesa.webp);
- background-size:cover;
-}
 
-.imgProd{
-  height: 500px;
-  width: 100px;
-}*/
-
-.itemDetail{
-  border: 2px solid blue;
-  color: black;
-}
-.item{
-  border: 2px solid blue;
-  
-}
 .itemList{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 
 }
-.mainMenu li{
-  list-style-type: none;
-  line-height: 5;
-  font-size: 30px;
-  font-family:'Sedgwick Ave Display', cursive;
-  display: inline;
-  padding: 10px;
+.imgDetail{
+  height: 400px;
 }
-nav ul{
-  list-style-type: none;
-  line-height: 5;
-  font-size: 30px;
-  font-family:'Sedgwick Ave Display', cursive;
-}
-header h1{
-  text-align: center;
-  
-  font-family:'Sedgwick Ave Display', cursive;
-  font-size: 50px;
+.itemDetail{
+  justify-items: center;
 }
 
-
-/*
-.cart{
-  font-size: 40px;
-  text-align: right;
-  padding-right: 50px;
-  padding-top: 30px;
-}*/
 .navbar{
   font-family:'Sedgwick Ave Display', cursive;
-  font-size: 30px;
+  font-size: 20px;
+ 
+  color: white;
+}
+.link{
+  color: white;
+  text-decoration: none; 
+  padding: 5px;
 }

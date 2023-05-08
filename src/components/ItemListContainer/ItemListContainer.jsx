@@ -8,10 +8,11 @@ import {ItemList} from "../ItemList/ItemList";
 export const ItemListContainer = () => {
 	const [products, setProducts] = useState([])
 	const { id } = useParams()
-console.log(id)
+
 
 
 	useEffect(() => {
+		console.log("ejec useeffect")
 		const productList = new Promise((resolve, reject) => {
 	
 				resolve(data)
@@ -37,32 +38,3 @@ console.log(id)
 	)
 }
 
-
-{/*
-export const ItemListContainer = () => {
-
-    const [products, setProducts] = useState([]);
-    const { id } = useParams()
-
-    const getProducts = () => {
-        return new Promise ((resolve, reject) => {
-            resolve(data)
-        })
-    }
-
-    useEffect (() => {    
-    getProducts()
-        .then ( (res) => {
-            setProducts(res);
-        })
-    }, [])
-    return (
-
-        <div>
-            <ItemList products={products}/>
-          
-        </div>
-    )
-}
-
-*/}

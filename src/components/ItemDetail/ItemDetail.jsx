@@ -1,13 +1,18 @@
 import { ItemCounter } from "../ItemCounter/ItemCounter"
 
-export const ItemDetail = ({ products, onAdd }) => {
+
+export const ItemDetail = ({ product, onAdd }) => {
+
+	
 	return (
 		<div className="itemDetail">
-			<h2>detalles</h2>
-			<h1>{products.name}</h1>
-			<img src={products.image} alt={products.name} />
-			<p>$ {products.price}</p>
-			<ItemCounter stock={products.stock} onAdd={onAdd} />
+			<h2>Detalles del juego</h2>
+			
+			<h1>{product.name}</h1>
+			<img className="imgDetail" src={product.image} alt={product.name} />
+			<p>$ {product.price}</p>
+			<ItemCounter stock={product.stock} onAdd={onAdd} />
 		</div>
 	)
 }
+

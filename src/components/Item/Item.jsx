@@ -5,7 +5,9 @@ import Card from "react-bootstrap/Card"
 const styles = {
     card: {
         padding: 20,
-  
+    img: {
+        height: 40,
+    }    
     }
 }
 
@@ -13,7 +15,7 @@ const styles = {
 export const Item = ({products}) => (
 
     <Card style={{ width: '25rem' }}>
-      <Card.Img variant="top" src={products.image} />
+      <Card.Img style={styles.img} variant="top" src={products.image} />
       <Card.Body style={styles.card}>
         <Card.Title>{products.name}</Card.Title>
         <Card.Text>Categoria: {products.category}</Card.Text>

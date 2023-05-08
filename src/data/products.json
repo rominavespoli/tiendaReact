@@ -4,7 +4,7 @@
     "price": 2000,
     "category": "juegos de ingenio",
     "description": 20,
-    "image": "../../img/azul-master-chocolatier.jpg",
+    "image": "/img/alien-el-octavo-pasajero-el-destino-del-nostromo.jpg",
     "id": 1,
     "stock": 10
   },
@@ -13,7 +13,7 @@
     "price": 3500,
     "category": "juegos de ingenio",
     "description": 20,
-    "image": "../src/img/azul-master-chocolatier.jpg",
+    "image": "/img/azul-master-chocolatier.jpg",
     "id": 2,
     "stock": 10
   },
@@ -22,7 +22,7 @@
     "price": 4900,
     "category": "juegos didácticos",
     "description": 10,
-    "image": "./images/bloodborne-la-mazmorra-del-caliz.jpg",
+    "image": "/img/bloodborne-la-mazmorra-del-caliz.jpg",
     "id": 3,
     "stock": 10
   },
@@ -31,7 +31,7 @@
     "price": 2650,
     "category": "juegos cooperativos",
     "description": 20,
-    "image": "./images/challengers.jpg",
+    "image": "/img/challengers.jpg",
     "id": 4,
     "stock": 10
   },
@@ -40,7 +40,7 @@
     "price": 7800,
     "category": "juegos de ingenio",
     "description": 20,
-    "image": "./images/flamecraft.jpg",
+    "image": "/img/flamecraft.jpg",
     "id": 5,
     "stock": 10
   },
@@ -49,7 +49,7 @@
     "price": 7800,
     "category": "juegos cooperativos",
     "description": 20,
-    "image": "./images/hostage-negotiator-oleada-de-crimenes.jpg",
+    "image": "/img/hostage-negotiator-oleada-de-crimenes.jpg",
     "id": 6,
     "stock": 10
   },
@@ -58,7 +58,7 @@
     "price": 7800,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/imperium-legendarios.jpg",
+    "image": "/img/imperium-legendarios.jpg",
     "id": 7,
     "stock": 10
   },
@@ -67,7 +67,7 @@
     "price": 7800,
     "category": "juegos de rol",
     "description": 20,
-    "image": "./images/la-era-olvidada-expansion-de-campana-arkham-horror.jpg",
+    "image": "/img/la-era-olvidada-expansion-de-campana-arkham-horror.jpg",
     "id": 8,
     "stock": 10
   },
@@ -76,7 +76,7 @@
     "price": 7800,
     "category": "juegos de rol",
     "description": 20,
-    "image": "./images/marvel-united-x-men.jpg",
+    "image": "/img/marvel-united-x-men.jpg",
     "id": 9,
     "stock": 10
   },
@@ -85,7 +85,7 @@
     "price": 7800,
     "category": "juegos didácticos",
     "description": 20,
-    "image": "./images/mindbug.jpg",
+    "image": "/img/mindbug.jpg",
     "id": 10,
     "stock": 10
   },
@@ -94,7 +94,7 @@
     "price": 7800,
     "category": "juegos de ingenio",
     "description": 20,
-    "image": "./images/rome-roll-personajes-2-expansion.jpg",
+    "image": "/img/rome-roll-personajes-2-expansion.jpg",
     "id":  11,
     "stock": 10
   },
@@ -103,7 +103,7 @@
     "price": 7800,
     "category": "juegos cooperativos",
     "description": 20,
-    "image": "./images/shards-of-infinity-expansion-relics-of-the-future.jpg",
+    "image": "/img/shards-of-infinity-expansion-relics-of-the-future.jpg",
     "id":  12,
     "stock": 10
   },
@@ -112,7 +112,7 @@
     "price": 7800,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/skyhawk-rolling-thunder-1966.jpg",
+    "image": "/img/skyhawk-rolling-thunder-1966.jpg",
     "id":  13,
     "stock": 10
   },
@@ -121,7 +121,7 @@
     "price": 7800,
     "category": "juegos didácticos",
     "description": 20,
-    "image": "./images/sleeping-gods-mazmorras.jpg",
+    "image": "/img/sleeping-gods-mazmorras.jpg",
     "id":  14,
     "stock": 10
   },
@@ -130,7 +130,7 @@
     "price": 7800,
     "category": "juegos de ingenio",
     "description": 20,
-    "image": "./images/sword-and-sorcery-cronicas-antiguas.jpg",
+    "image": "/img/sword-and-sorcery-cronicas-antiguas.jpg",
     "id":  15,
     "stock": 10
   },
@@ -139,7 +139,7 @@
     "price": 7800,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/terraforming-mars.jpeg",
+    "image": "/img/terraforming-mars.jpeg",
     "id":  16,
     "stock": 10
   },
@@ -148,7 +148,7 @@
     "price": 6500,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/tiletum.jpg",
+    "image": "/img/tiletum.jpg",
     "id":  17,
     "stock": 10
   },
@@ -157,7 +157,7 @@
     "price": 7400,
     "category": "juegos de rol",
     "description": 20,
-    "image": "./images/boogeyman.jpg",
+    "image": "/img/boogeyman.jpg",
     "id":  18,
     "stock": 10
   },
@@ -166,7 +166,7 @@
     "price": 7800,
     "category": "juegos cooperativos",
     "description": 20,
-    "image": "./images/dreamquest.jpg",
+    "image": "/img/dreamquest.jpg",
     "id":  19,
     "stock": 10
   },
@@ -175,7 +175,7 @@
     "price": 3400,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/cloudage.jpg",
+    "image": "/img/cloudage.jpg",
     "id":  20,
     "stock": 10
   },
@@ -184,7 +184,7 @@
     "price": 9800,
     "category": "juegos didácticos",
     "description": 20,
-    "image": "./images/la-era-olvidada-expansion-investigadores-arkham-horror.jpg",
+    "image": "/img/la-era-olvidada-expansion-investigadores-arkham-horror.jpg",
     "id":  21,
     "stock": 10
   },
@@ -193,7 +193,7 @@
     "price": 7800,
     "category": "juegos de estrategia",
     "description": 20,
-    "image": "./images/origins-expansion-maravillas-antiguas.jpg",
+    "image": "/img/origins-expansion-maravillas-antiguas.jpg",
     "id":  22,
     "stock": 10
   }
