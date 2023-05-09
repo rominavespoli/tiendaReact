@@ -12,12 +12,9 @@ export const ItemListContainer = () => {
 
 
 	useEffect(() => {
-		console.log("ejec useeffect")
 		const productList = new Promise((resolve, reject) => {
-	
 				resolve(data)
-		
-		})
+				})
 		productList.then(result => {
 			if (id) {
 				const productsFiltered = result.filter(
@@ -32,7 +29,6 @@ export const ItemListContainer = () => {
 
 	return (
 		<div className="itemList">
-		
 			<ItemList products={products} />
 		</div>
 	)

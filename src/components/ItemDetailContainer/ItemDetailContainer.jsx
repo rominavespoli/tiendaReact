@@ -11,7 +11,7 @@ export const ItemDetailContainer = ({ onAdd }) => {
 	useEffect(() => {
 		const getItem = new Promise((resolve, reject) => {
 			
-		const product = products.find(item => item.id === id)
+		const product = products.find(item => item.id === parseInt(id))
 		resolve(product)
 			
 		})

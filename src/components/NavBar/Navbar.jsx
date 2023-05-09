@@ -1,7 +1,5 @@
-import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-
 import { useState, useEffect } from "react";
 import { CartWidget } from "../CartWidget/CartWidget";
 import { GrGamepad } from "react-icons/gr";
@@ -22,24 +20,28 @@ export const NavBar = () => {
   }, []);
 
   return (
+    <section>
     <Navbar bg="primary" variant="light">
-      <Container>
-        <NavbarBrand>
-          Tienda de Juegos <GrGamepad />
-        </NavbarBrand>
+        <NavbarBrand className="brand"> Tienda de Juegos <GrGamepad /></NavbarBrand>
 
-        <Nav>
-          <NavLink className="link" to="/">
-            HOME
-          </NavLink>
-          {itemsMenu?.map((item) => (
-            <NavLink className="link" key={item} to={`/category/${item}`}>
-              {item.toUpperCase()}
-            </NavLink>
-          ))}
+        <Nav className="navbar">
+        <NavLink className="link" to="/">Inicio</NavLink>
+        <NavLink className="link" to="/Nosotros">Nosotros</NavLink>
+        <NavLink className="link" to="/Contacto">Contacto</NavLink>
         </Nav>
         <CartWidget contador={1} />
-      </Container>
     </Navbar>
-  );
+    <div className="linkCategory">
+        <ul>
+            <li>
+            {itemsMenu?.map((item) => (
+              <NavLink className="link" key={item} to={`/category/${item}`}>
+                {item.toUpperCase()}
+              </NavLink>
+            ))}
+            </li>
+        </ul>
+    </div>
+    </section>
+);
 };

@@ -3,7 +3,7 @@
     "name": "Alien",
     "price": 2000,
     "category": "juegos de ingenio",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/alien-el-octavo-pasajero-el-destino-del-nostromo.jpg",
     "id": 1,
     "stock": 10
@@ -12,7 +12,7 @@
     "name": "Azul",
     "price": 3500,
     "category": "juegos de ingenio",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/azul-master-chocolatier.jpg",
     "id": 2,
     "stock": 10
@@ -21,7 +21,7 @@
     "name": "Bloodhorne ",
     "price": 4900,
     "category": "juegos didácticos",
-    "description": 10,
+    "description": "lorem",
     "image": "/img/bloodborne-la-mazmorra-del-caliz.jpg",
     "id": 3,
     "stock": 10
@@ -30,7 +30,7 @@
     "name": "Challengers",
     "price": 2650,
     "category": "juegos cooperativos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/challengers.jpg",
     "id": 4,
     "stock": 10
@@ -39,7 +39,7 @@
     "name": "Flamecraft",
     "price": 7800,
     "category": "juegos de ingenio",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/flamecraft.jpg",
     "id": 5,
     "stock": 10
@@ -48,7 +48,7 @@
     "name": "Hostage",
     "price": 7800,
     "category": "juegos cooperativos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/hostage-negotiator-oleada-de-crimenes.jpg",
     "id": 6,
     "stock": 10
@@ -57,7 +57,7 @@
     "name": "Imperium",
     "price": 7800,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/imperium-legendarios.jpg",
     "id": 7,
     "stock": 10
@@ -66,7 +66,7 @@
     "name": "La era olvidada",
     "price": 7800,
     "category": "juegos de rol",
-    "description": 20,
+    "description": "lorem",
     "image": "/img/la-era-olvidada-expansion-de-campana-arkham-horror.jpg",
     "id": 8,
     "stock": 10
@@ -75,7 +75,7 @@
     "name": "Marvel",
     "price": 7800,
     "category": "juegos de rol",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/marvel-united-x-men.jpg",
     "id": 9,
     "stock": 10
@@ -84,7 +84,7 @@
     "name": "Mindbug",
     "price": 7800,
     "category": "juegos didácticos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/mindbug.jpg",
     "id": 10,
     "stock": 10
@@ -93,7 +93,7 @@
     "name": "Rome and roll",
     "price": 7800,
     "category": "juegos de ingenio",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/rome-roll-personajes-2-expansion.jpg",
     "id":  11,
     "stock": 10
@@ -102,7 +102,7 @@
     "name": "Shards of infinity",
     "price": 7800,
     "category": "juegos cooperativos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/shards-of-infinity-expansion-relics-of-the-future.jpg",
     "id":  12,
     "stock": 10
@@ -111,7 +111,7 @@
     "name": "Skyhawk",
     "price": 7800,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/skyhawk-rolling-thunder-1966.jpg",
     "id":  13,
     "stock": 10
@@ -120,7 +120,7 @@
     "name": "Sleeping gods",
     "price": 7800,
     "category": "juegos didácticos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/sleeping-gods-mazmorras.jpg",
     "id":  14,
     "stock": 10
@@ -129,7 +129,7 @@
     "name": "Swords",
     "price": 7800,
     "category": "juegos de ingenio",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/sword-and-sorcery-cronicas-antiguas.jpg",
     "id":  15,
     "stock": 10
@@ -138,7 +138,7 @@
     "name": "Terraforming",
     "price": 7800,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/terraforming-mars.jpeg",
     "id":  16,
     "stock": 10
@@ -147,7 +147,7 @@
     "name": "Tiletum",
     "price": 6500,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/tiletum.jpg",
     "id":  17,
     "stock": 10
@@ -156,7 +156,7 @@
     "name": "Boogeyman",
     "price": 7400,
     "category": "juegos de rol",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/boogeyman.jpg",
     "id":  18,
     "stock": 10
@@ -165,7 +165,7 @@
     "name": "Dreamquest",
     "price": 7800,
     "category": "juegos cooperativos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/dreamquest.jpg",
     "id":  19,
     "stock": 10
@@ -174,7 +174,7 @@
     "name": "Cloudage",
     "price": 3400,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/cloudage.jpg",
     "id":  20,
     "stock": 10
@@ -183,7 +183,7 @@
     "name": "La era olvidada 2",
     "price": 9800,
     "category": "juegos didácticos",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/la-era-olvidada-expansion-investigadores-arkham-horror.jpg",
     "id":  21,
     "stock": 10
@@ -192,7 +192,7 @@
     "name": "Origins expansion",
     "price": 7800,
     "category": "juegos de estrategia",
-    "description": 20,
+    "description": "Lorem",
     "image": "/img/origins-expansion-maravillas-antiguas.jpg",
     "id":  22,
     "stock": 10
